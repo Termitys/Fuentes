@@ -1,8 +1,13 @@
 {
   "spec": 1,
+  "name": "Kingthings Pack",
   "fonts": [
     {
-      "name": "Kingthings Trypewriter 2",
+      "name": "ggsans-Normal",
+      "main": "https://raw.githubusercontent.com/Termitys/Fuentes/main/Kingthings%20Trypewriter%202.ttf"
+    },
+    {
+      "name": "ggsans-Medium",
       "main": "https://raw.githubusercontent.com/Termitys/Fuentes/main/Kingthings%20Trypewriter%202.ttf"
     }
   ]
